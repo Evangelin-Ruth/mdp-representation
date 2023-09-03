@@ -38,7 +38,7 @@ To develop an environment consisting of a mobile tower as the start and the hous
 
 
 ## PYTHON REPRESENTATION:
-
+```
 P = {
     0 : {
         0 : [(1.0, 0, 0.0, False)],
@@ -96,7 +96,7 @@ P = {
         3 : [(1.0, 7, 1.0, True)]
     }
 }
-
+```
 
 ## OUTPUT:
 
