@@ -15,13 +15,10 @@ The agent has to reach the goal state(school) by taking the correct step towards
 {0,1,2,3}
 
 ### Sample State
-0 -> Starting point(S)
-
-1 -> Relaxing point(R)
-
-2 -> Goal point(G)
-
-3 -> Restricted point(D)
+* 0 -> Starting point(S)
+* 1 -> Relaxing point(R)
+* 2 -> Goal point(G)
+* 3 -> Restricted point(D)
 
 ### Action Space:
 {1,2}
