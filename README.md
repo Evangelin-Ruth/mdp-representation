@@ -34,7 +34,8 @@ The agent has to reach the goal state(school) by taking the correct step towards
 
 ### Graphical Representation
 
-![eva](https://github.com/Evangelin-Ruth/mdp-representation/assets/94219798/95b8183e-637a-49d1-9f91-7443cce1de17)
+![image](https://github.com/Evangelin-Ruth/mdp-representation/assets/94219798/0296a03e-f431-494a-8466-9817fc92fcb7)
+
 
 
 ## PYTHON REPRESENTATION:
@@ -67,7 +68,8 @@ School
 
 ## OUTPUT:
 
-![265270435-20ef6215-f394-4aa0-9c3a-ac15494e6d09](https://github.com/Lakshmipriya-P-AI/mdp-representation/assets/93427923/1e28f004-7146-4462-ab79-a5d99414631c)
+![image](https://github.com/Evangelin-Ruth/mdp-representation/assets/94219798/8449dbe0-1005-42da-b58f-075838983520)
+
 
 ## RESULT:
 Thus a real world problem is represented as Markov Decision Problem in the following ways successfully:
